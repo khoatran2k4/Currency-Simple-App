@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Currency Application</string>
+
+    <string-array name="currencies">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+        <item>GBP</item>
+        <item>CNY</item>
+        <item>KRW</item>
+        <item>VND</item>
+    </string-array>
+
+    <string-array name="currency_symbols">
+        <item>$</item>
+        <item>€</item>
+        <item>¥</item>
+        <item>£</item>
+        <item>¥</item>
+        <item>₩</item>
+        <item>₫</item>
+    </string-array>
+
+</resources>
