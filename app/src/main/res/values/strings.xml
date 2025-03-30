@@ -2,13 +2,13 @@
     <string name="app_name">Currency Application</string>
 
     <string-array name="currencies">
-        <item>USD</item>
-        <item>EUR</item>
-        <item>JPY</item>
-        <item>GBP</item>
-        <item>CNY</item>
-        <item>KRW</item>
-        <item>VND</item>
+        <item>United States - Dollar</item>
+        <item>European Union - Euro</item>
+        <item>Japan - Yen</item>
+        <item>United Kingdom - Pound</item>
+        <item>Australia - Dollar</item>
+        <item>Canada - Dollar</item>
+        <item>Vietnam - Dong</item>
     </string-array>
 
     <string-array name="currency_symbols">
